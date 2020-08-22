@@ -57,6 +57,7 @@ kubectl create namespace NAMESPACE
 
 ```bash
 helm list --all --all-namespaces
+```
 
 ## Parameters
 
